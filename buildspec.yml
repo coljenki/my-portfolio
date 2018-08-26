@@ -10,4 +10,4 @@ artifacts:
         - favicon.ico
         - ColinJenkinsResume.pdf
         - styles/main.css
-        - images/
+        - images/*

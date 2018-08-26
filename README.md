@@ -13,3 +13,5 @@ This is my professional portfolio. It users AWS and ReactJS.
 	Google Fonts
 
 ## End of technology list
+
+## Description
