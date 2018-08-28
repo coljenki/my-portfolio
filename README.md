@@ -15,3 +15,5 @@ This is my professional portfolio. It users AWS and ReactJS.
 ## End of technology list
 
 ## Description
+
+## EOF
